@@ -1,8 +1,2 @@
 let i = 0;
-let e = 0;
-
-
-function a(){
-    
-    
-}
+let e = 0
