@@ -11,3 +11,8 @@ function a(){
     
     
 }
+
+function ausgabe(){
+        console.log("Hallo");
+    
+}
